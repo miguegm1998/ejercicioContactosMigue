@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AadContactos</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_leer">Leer contactos</string>
+    <string name="menu_guardar">Guardar en CSV</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="aceptarPermisos">Tienes que aceptar los permisos</string>
+    <string name="aceptarPermisos2">Tienes que aceptar los permisos de escritura</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Preferencias de guardado</string>
+    <string name="contexto_guardado">Contexto del guardado</string>
+    <string name="gTitulo">¿Quieres mantener el titulo?</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="nombreFichero">Introduce el nombre del fichero</string>
+    <string name="btguardar">Guardar</string>
+    <string name="btAceptar">Leer</string>
+</resources>
